@@ -1,2 +1,30 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo - https://app.patika.dev/ScienceHunter
+# Kodluyoruz Ilk Repo
+Ek: (https://app.patika.dev/ScienceHunter)
+
+Bu repo [Kodluyoruz](http://www.kodluyoruz.org) 
+ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
+ 
+ ## Installation
+
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+`git clone https://github.com/ScienceHunter/kodluyoruzilkrepo.git`
+ 
+  ## Usage
+  
+  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+  Linux için: 
+
+``
+cd kodluyoruzilkrepo
+code . ``
+
+## Contrubuting
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
